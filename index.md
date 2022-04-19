@@ -1,11 +1,8 @@
-# trev155 Blog
+## About
+Various programming projects and other stuff.
 
-Test content:
+### Major
+Level Up Bound:
 
-<ul>
-	<li>123</li>
-	<li>456</li>
-</ul>
-
-[Duck Duck Go](https://duckduckgo.com).
-[Upgrade Optimizer](https://trev155.github.io/upgrade-optimizer).
+### Minor
+[Upgrade Optimizer](https://trev155.github.io/upgrade-optimizer)
